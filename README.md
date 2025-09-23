@@ -103,14 +103,16 @@ Some key findings from the dashboard:
 * Travel policies contribute the highest premium amount (2.5M).
 * Health and Auto policies follow with 1.2M and 1.0M respectively.
   
-![Snap_1](https://github.com/user-attachments/assets/7e4ca866-b44a-4679-a60f-8b2f7bf1242a)
-![Snap_1](https://github.com/user-attachments/assets/f5703af5-87a4-48b1-b864-30749521a7d4)
+![Snap_1](https://github.com/user-attachments/assets/5a5dc18b-092e-4105-8cbb-424d7390d69d)
+
+
 
 ### \[2] Claim Analysis
 
 * Total claim amount stands at **16.91M**.
 
-![Snap_1](https://github.com/user-attachments/assets/c99601c1-ed46-48bb-bf8a-f84aa9c45d9b)
+![Snap_1](https://github.com/user-attachments/assets/34df1969-c1c2-49ce-9a5c-c7ecc3aaea50)
+
 
 * Claim status distribution:
 
@@ -122,13 +124,16 @@ Some key findings from the dashboard:
 
 * Gender distribution is almost equal (Female: 5001, Male: 5003).
 * Adults contribute the highest claim amount (8.7M), followed by Elders (6.7M).
+![Snap_1](https://github.com/user-attachments/assets/4d74faa6-08e6-4780-a86b-68f7e01e7334)
+
 
 ### \[4] Policy Activity
 
 * Active policies: 50.19%
 * Inactive policies: 49.81%
 
-![Snap_1](https://github.com/user-attachments/assets/c69119a0-0d01-4283-9a05-9240a9f34e14)
+![Snap_1](https://github.com/user-attachments/assets/bea36d52-44bc-455a-b9c7-261bb61ba4ad)
+
 
 
 
