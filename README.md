@@ -1,6 +1,7 @@
 # Insurance-Analysis-Dashboard
 
-### Dashboard Link : [View Dashboard](https://app.powerbi.com/links/E0Zho2XCYD?ctid=f5410ffc-6e44-4b90-ae76-efeeaafbdf4f&pbi_source=linkShare)
+### Dashboard Link :### Dashboard Link  
+[View Insurance Analysis Dashboard](https://app.powerbi.com/links/6ZYZvQcTbb?ctid=f5410ffc-6e44-4b90-ae76-efeeaafbdf4f&pbi_source=linkShare)
 
 ## Problem Statement
 
