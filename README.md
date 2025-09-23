@@ -41,7 +41,8 @@ With these insights, the company can **reduce claim rejection rates, optimize po
         ))
     ```
 
-       ![Snap_1](https://github.com/user-attachments/assets/f099025e-b78c-4a79-a31b-1036f32d4834)
+       ![Snap_1](https://github.com/user-attachments/assets/235b6856-80ac-471b-89fc-fa5d8941dbea)
+
 
 
 
@@ -90,7 +91,8 @@ With these insights, the company can **reduce claim rejection rates, optimize po
 
 ## Snapshot of Dashboard
 
-![Snap_1](https://github.com/user-attachments/assets/7b0dd6d7-681d-43df-b674-68d11944610d)
+![Snap_1](https://github.com/user-attachments/assets/fa76c790-8643-45b7-8b57-9cc1c3d6fab0)
+
 
 ## Insights
 
