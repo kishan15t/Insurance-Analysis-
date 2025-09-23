@@ -124,6 +124,7 @@ Some key findings from the dashboard:
 
 * Gender distribution is almost equal (Female: 5001, Male: 5003).
 * Adults contribute the highest claim amount (8.7M), followed by Elders (6.7M).
+*
 ![Snap_1](https://github.com/user-attachments/assets/4d74faa6-08e6-4780-a86b-68f7e01e7334)
 
 
